@@ -34,7 +34,7 @@ Generate configure scripts
 
 Building
 
-> ./configure --enable-outputs --enable-visualizer> --enable-cck --enable-unicode --with-curl --with-fftw
+> ./configure --enable-outputs --enable-visualizer> --enable-clock --enable-unicode --with-curl --with-fftw
 
 Then install
 
